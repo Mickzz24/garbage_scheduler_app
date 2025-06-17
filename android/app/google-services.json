@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374367399250",
+    "project_id": "garbage-scheduler-app",
+    "storage_bucket": "garbage-scheduler-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374367399250:android:bf1d8bbf5749e216a39e8b",
+        "android_client_info": {
+          "package_name": "com.example.garbage_scheduler_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRVpaqzuRf3hDAW22bxc49QvSxJu_1_MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
